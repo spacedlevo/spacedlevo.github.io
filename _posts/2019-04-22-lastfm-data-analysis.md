@@ -3,7 +3,7 @@ layout: post
 title: Exploring my Last.fm Data
 categories: [data analysis, python]
 tags: [music,data,python,requests,pandas]
-description: Reviewing nearly 12 year of last.fm data.
+description: Analysing 12 years of Last.fm data with python, pandas and matplotlib
 ---
 
 Welcome to my first step on my data analysis journey. There seemed no better place to start than to use a data set that I have been putting togther passively for 12 years, my music listening habits. A lot of this post has been heavily influenced by [Geoff Boeing's](https://geoffboeing.com/2016/05/analyzing-lastfm-history/) own analysis.
